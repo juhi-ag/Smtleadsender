@@ -1,6 +1,6 @@
 <%-- <jsp:include page="header.jsp"><jsp:param value="product" name="SRL"/></jsp:include> --%>
 <title>CRM Datapass</title>
-<link rel="icon" type="image/png" sizes="32x32" href="${pageContext.request.contextPath}/resources/images/fav/favicon-foundry.png">
+<%-- <link rel="icon" type="image/png" sizes="32x32" href="${pageContext.request.contextPath}/resources/images/fav/favicon-foundry.png"> --%>
 
 <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/bootstrap4.min.css">
 <!--  <link rel="stylesheet" type="text/css" href="resources/css/bootstrap.min.css" />-->
